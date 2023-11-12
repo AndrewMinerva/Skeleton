@@ -13,3 +13,5 @@ https://youtu.be/lip0PlCTUwM
 2D implementation of multi-arm IK with moving IK, user interaction, and joint limits.
 https://www.youtube.com/watch?v=BNebw-32dy8
 
+2D implementation without any joint limits in the arm.
+https://youtu.be/g6dIjn-lCHo
