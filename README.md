@@ -7,5 +7,9 @@ Skeleton Mesh
 4. Moving IK, the Ik is able to move in the 2D version.
 5. 3D Rendering and camera, camera is controled easily by the user in a well lit and clear 3D environment.
 
-3D implementation of Multi-arm IK with an easily used camera
+3D implementation of multi-arm IK with an easily used camera
 https://youtu.be/lip0PlCTUwM
+
+2D implementation of multi-arm IK with moving IK, user interaction, and joint limits.
+https://www.youtube.com/watch?v=BNebw-32dy8
+
